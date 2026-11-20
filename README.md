@@ -31,4 +31,9 @@ exercise helps you learn how password cracking works and why it is important to 
 Configuring and cracking the password of attached PDF file (My Locked PDF1.pdf) using JTR
 JOHN and JTR JOHNNY tools on my Windows PC.
 
-![](
+![](<img width="882" height="516" alt="image" src="https://github.com/user-attachments/assets/ac60202a-a131-4014-9cef-02488a1d4ebc" />
+
+
+ ## Upload the pdf loacked file into the online hash cracker to generate the hash value
+ 
+
