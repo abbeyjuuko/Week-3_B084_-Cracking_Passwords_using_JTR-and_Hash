@@ -70,6 +70,71 @@ Open the Hash Generator and upload the pdf file into it.
 ![](<img width="1116" height="806" alt="image" src="https://github.com/user-attachments/assets/4c1da444-e028-4dca-b9e4-4886081d6c1f" />
 
 
+# 🐞 Problems Encountered & Solutions
+
+Documenting problems is an important part of the project.
+
+## Problem 1. Installing the JTR
+
+The  JTR, is somewhat hard to install if you dont extract it properly, thus having errors in the installation
+
+> **Important:** Versions of the JTR may differ, but extracting John and extracting the john.exe file into John the ripper is the main thing for optimum performance.
+
+---
+
+
+
+
+
+---
+
+# 💡 What I Learned
+
+Through this project, I learned how to USE JTR for cracking locked pdf files for cybersecurity practice.
+
+The most important concepts I learned include:
+
+### 1. the   JTR vs the HASH Generator of Networkwalks
+ Both are good pentesting tools used in cracking passwords since they all extract hashes. But to some extent using John the ripper could be of advantage if cracking complex files
+
+### 2.  Snapshots
+
+I learned that a clean snapshot should be created **before performing risky or experimental activities**.
+
+This provides a known-good recovery point for future cybersecurity exercises.
+
+### 5. Documentation
+
+I learned that documenting commands, configuration, screenshots, problems, and solutions is an important part of a professional cybersecurity project.
+
+---
+
+---
+
+# 🔗 Tools & Resources
+
+
+- **John the Ripper:** [https://www.openwall.com/john/)
+- **Network walks hash generator** [https://networkwalks.com/hash-calculator/)
+  
+  
+
+---
+
+# 👤 Author
+
+**ABBEY JUUKO**\
+Cybersecurity Specialist B084D
+
+LinkedIn: [www.linkedin.com/in/juuko-abbey-serwanga-4a72b6315)
+
+---
+
+## Project Information
+
+**Program Name:** Cybersecurity at Networkwalks | **Week:** 03| **Project:** Cybersecurity & Pentesting Lab Setup | **Repository:** GitHub
+
+
 
 
 
