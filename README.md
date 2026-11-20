@@ -39,7 +39,13 @@ JOHN and JTR JOHNNY tools on my Windows PC.
  ![](<img width="1167" height="802" alt="image" src="https://github.com/user-attachments/assets/b872b64f-f964-464f-9c40-26a1ae4712db" />
 
  ## Copy the hash value and paste it into John the ripper so as to crack the password.
+ 
+ ![](<img width="895" height="697" alt="image" src="https://github.com/user-attachments/assets/6e701256-59ae-4a1f-b558-0b67745bcd17" />
+
+ ## Start new attack option in John the ripper to disclose the password.
+
  ![](
+
 
  
 
