@@ -36,6 +36,10 @@ JOHN and JTR JOHNNY tools on my Windows PC.
 
  ## Upload the pdf loacked file into the online hash cracker to generate the hash value
 
+ ![](<img width="1167" height="802" alt="image" src="https://github.com/user-attachments/assets/b872b64f-f964-464f-9c40-26a1ae4712db" />
+
+ ## Copy the hash value and paste it into John the ripper so as to crack the password.
  ![](
+
  
 
