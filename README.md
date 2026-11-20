@@ -67,7 +67,10 @@ Open the Hash Generator and upload the pdf file into it.
 
 ## The hash generator will now match a password that will be the exact password for the locked pdf, for this case password 1.
 
-![](
+![](<img width="1116" height="806" alt="image" src="https://github.com/user-attachments/assets/4c1da444-e028-4dca-b9e4-4886081d6c1f" />
+
+
+
 
 
 
