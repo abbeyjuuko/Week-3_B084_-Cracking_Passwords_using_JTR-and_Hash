@@ -46,9 +46,12 @@ JOHN and JTR JOHNNY tools on my Windows PC.
 
  ![](<img width="886" height="697" alt="image" src="https://github.com/user-attachments/assets/0fcb3150-6624-480b-a0cf-81c81d7ab13d" />
 
- ## Copy the password and open the locked pdf and paste it, the pdf should open with that password.
+Password for the locked pdf = good-luck.
 
- ![](
+
+## MODULE 2
+
+## Using the Network walks Hash generator to crack the hash
 
 
 
