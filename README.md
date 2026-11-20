@@ -1,4 +1,34 @@
 # Week-3_B084_-Cracking_Passwords_using_JTR-and_Hash
-Cracking Passwords uisng Johny the Ripper and Network walks HASH Generator
 
-## PROJECT MODULE 1... CRACKING THE PASSWORD WITH JOHN THE RIPPER
+## PROJECT MODULE 1
+
+**CRACKING PASSWORD FOR PDF WITH JOHN THE RIPPER**
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Ver-john the ripper-0070C0?style=flat-square&labelColor=000000" /
+  <img src="https://img.shields.io/badge/Penetration%20Testing-C00000?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-404040?style=flat-square&labelColor=0070C0&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetworkWalks-404040?style=flat-square&labelColor=C00000" />
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Abbey%20Juuko%20CEH-C00000?style=flat-square" />
+</p>
+
+## Background
+John the Ripper (JTR) is a popular password cracking tool used by security professionals to test how strong
+passwords are. It started as a tool for Unix systems but now works on Windows, Linux, and Mac. It can
+check many types of password hashes and also unlock password protected files like PDF, ZIP, and Office
+documents.
+Johnny is the graphical version of John the Ripper. It gives a simple point and click screen, so beginners can
+use JTR without typing long commands. Both tools are widely used in security testing and learning labs to
+understand password safety.
+In this lab task you will use JTR John and JTR Johnny to recover the password of a protected PDF file. This
+exercise helps you learn how password cracking works and why it is important to use strong passwords for protection
+
+## Task 1
+
+Configuring and cracking the password of attached PDF file (My Locked PDF1.pdf) using JTR
+JOHN and JTR JOHNNY tools on my Windows PC.
+
+![](
