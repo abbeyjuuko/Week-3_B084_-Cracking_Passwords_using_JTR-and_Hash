@@ -53,6 +53,10 @@ Password for the locked pdf = good-luck.
 
 ## Using the Network walks Hash generator to crack the hash
 
+Open the Hash Generator and upload the pdf file into it.
+
+![](
+
 
 
  
